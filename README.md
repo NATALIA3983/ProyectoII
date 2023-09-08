@@ -62,7 +62,7 @@ En esta etapa, se llevaron a cabo varias tareas relacionadas con el desarrollo d
 </h1>
 
 *** 
-En este proyecto, se lograron los siguientes Conclusiones:
+El proyecto, se lograron los siguientes Conclusiones:
 
 Se completó el proceso de ETL para recopilar y preparar los datos.
 El Análisis Exploratorio de Datos proporcionó una comprensión profunda de los datos.
